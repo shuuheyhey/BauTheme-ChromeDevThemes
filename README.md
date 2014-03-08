@@ -13,7 +13,7 @@ A easy viewing customized theme for Google Chrome.
 ![elements]
 
 
-[elements]: hhttps://github.com/shuuheyhey/BauTheme-ChromeDevThemes/blob/master/images/elements.png?raw=true "Elements"
+[elements]: https://raw.github.com/shuuheyhey/BauTheme-ChromeDevThemes/master/images/elements.png "Elements"
 
 ## Credits
 
