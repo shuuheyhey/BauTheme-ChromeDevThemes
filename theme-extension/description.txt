@@ -1,0 +1,9 @@
+This is a theme for the Developer Tools [Ctrl/Cmd + Shift + I].
+
+---------------------------------------------------------
+Installation Instructions
+---------------------------------------------------------
+- Add this theme
+- Goto chrome://flags and Enable Developer Tools experiments.
+- Open developer tools settings, select Experiments tab, and check 'Allow custom UI themes'.
+- Reload devtools.

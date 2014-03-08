@@ -1,39 +1,20 @@
-## Readable-ChromeDevThemes ##
-![](https://dl.dropboxusercontent.com/u/24421764/ChromeDevThemes/light-theme1.png)
-More readable color and lineheight on Chrome developer tools,
-Sublime text 2 default font
-Develop more pleasure！
+# Bau Theme for Chrome
+A easy viewing customized theme for Google Chrome.
 
-### How to Install ###
-  1. Download <a href="https://raw.github.com/Augus/Readable-ChromeDevThemes/master/Custom.css" target="_black">Custom.css</a>
-  2. Replace the `Custom.css` file in your `"User Stylesheets"` folder. Here is how to find `Custom.css`:
+## Installation
 
-  #### Windows: ####
-	`%LOCALAPPDATA%\Google\Chrome\User Data\Default\User StyleSheets\Custom.css`
-  #### Linux ####
-  	```
-  	curl -o ~/.config/chromium/Default/User\ StyleSheets/Custom.css https://raw.github.com/Augus/Readable-ChromeDevThemes/master/Custom.css
-  	```
-  #### Mac: ####
-		```
-		curl -o ~/Library/Application\ Support/Google/Chrome/Default/User\ StyleSheets/Custom.css https://raw.github.com/Augus/Readable-ChromeDevThemes/master/Custom.css
-		```
+* Add [Bau Theme](https://github.com/shuuheyhey/BauTheme-ChromeDevThemes).
+* Open `chrome://flags` &#9654; Enable Developer Tools experiments.
+* Open developer tools settings &#9654; Experiments &#9654; [&#10004;] Allow custom UI themes.
 
-### Install Tip ###
-If you don't know where is `LOCALAPPDATA`, please see this [article](http://www.blogtechnika.com/what-is-application-data-folder-in-windows-7/).
+## Preview
 
-### Theme Features ###
-1. More readable colors.
-2. More readable lineheight (1.2em).
-3. More readable selected area.
-4. Add Guide lines before selected tag.
+### Elements
+![elements]
 
-### SCSS Support ###
-Easy Build Your self, just download SCSS project and change the `_setting.scss` file.
-![](https://dl.dropboxusercontent.com/u/24421764/ChromeDevThemes/settings.png)
 
-### Screenshots :  ###
-![](https://dl.dropboxusercontent.com/u/24421764/ChromeDevThemes/light-theme1.png)
-![](https://dl.dropboxusercontent.com/u/24421764/ChromeDevThemes/light-theme2.png)
-![](https://dl.dropboxusercontent.com/u/24421764/ChromeDevThemes/light-theme3.png)
-![](https://dl.dropboxusercontent.com/u/24421764/ChromeDevThemes/light-theme4.png)
+[elements]: hhttps://github.com/shuuheyhey/BauTheme-ChromeDevThemes/blob/master/images/elements.png?raw=true "Elements"
+
+## Credits
+
+* Thanks to Augus for the base styles.  I used his [Readable-ChromeDevThemes](https://github.com/Augus/Readable-ChromeDevThemes/) as a starting point.
